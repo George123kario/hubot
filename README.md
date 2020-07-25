@@ -1,0 +1,2 @@
+# hubot
+Just another repository
